@@ -40,10 +40,6 @@
     {
       "resources": [ "emotes.json" ],
       "matches": [ "https://*/*", "http://*/*" ]
-    },
-    {
-      "resources": [ "/images/catJAM_2x.avif" ],
-      "matches": [ "http://*/*", "https://*/*" ]
     }
   ],
   "content_security_policy": {

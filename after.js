@@ -16,7 +16,7 @@
   });
 
   // Poll for the input box to be loaded
-  var interval = setInterval(function() {
+  let interval = setInterval(function() {
     console.log('polling for input box')
     if (document.querySelectorAll('[data-testid=conversation-compose-box-input]').length > 0) {
       console.log('input box found');
@@ -34,10 +34,10 @@
 
   // Add emote to the input box
   function addEmote(emote, mutation) {
+  
+    // https://cdn.7tv.app/emote/60ae7316f7c927fad14e6ca2/2x.webp
     
-    console.log(mutation)
-    
-    const emoteUrl = chrome.runtime.getURL("images/" + emote.name + "_2x.avif");
+    const emoteUrl = "https://cdn.7tv.app/emote/" + emote.id + "/2x.avif";
 
     fetch(emoteUrl)
     .then(response => response.blob())
