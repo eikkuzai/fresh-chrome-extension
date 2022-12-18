@@ -1,8 +1,8 @@
 {
-  "name": "Fresh Chrome Extension",
-  "description": "Fully functional, useful bare minimum Google Chrome extension boilerplate [Manifest V3].",
+  "name": "Whatsappge",
+  "description": "Whatsappge",
   "homepage_url": "https://github.com/llagerlof/fresh-chrome-extension",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "manifest_version": 3,
   "action": {
     "default_title": "execute.js will run (watch the Chrome DevTools' console)"
@@ -35,5 +35,23 @@
   "host_permissions": [
     "https://*/*",
     "http://*/*"
-  ]
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [ "emotes.json" ],
+      "matches": [ "https://*/*", "http://*/*" ]
+    },
+    {
+      "resources": [ "/images/catJAM_2x.avif" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+    }
+  ],
+  "content_security_policy": {
+    "script-src": [
+      "'self'",
+      "https://*/*",
+      "http://*/*",
+      "unsafe-eval"
+    ]
+  }
 }

@@ -1,0 +1,2594 @@
+[
+    {
+        "id": "60ae958e229664e8667aea38",
+        "name": "GIGACHAD",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60ae264eaee2aa55389c4164",
+            "username": "beutelino",
+            "display_name": "Beutelino",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60ae958e229664e8667aea38",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60ae7316f7c927fad14e6ca2",
+        "name": "catJAM",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60ae4e170e354776348eff16",
+            "username": "pascii_",
+            "display_name": "pascii_",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60ae7316f7c927fad14e6ca2",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60aea4074b1ea4526d3c97a9",
+        "name": "BOOBA",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60ae99954b1ea4526d8ac75b",
+            "username": "evilmessy",
+            "display_name": "evilmessy",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60aea4074b1ea4526d3c97a9",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60a1babb3c3362f9a4b8b33a",
+        "name": "catKISS",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60867b015e01df61570ab900",
+            "username": "cupofeggy",
+            "display_name": "CupOfEggy",
+            "style": {
+                "color": -8328449,
+                "paint_id": "62ab775b184cb0095e3b5f32",
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60a1babb3c3362f9a4b8b33a",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "638767f24cc489ef45239272",
+        "name": "peepoShy",
+        "listed": true,
+        "trending": 2,
+        "owner": {
+            "id": "6053853cb4d31e459fdaa2dc",
+            "username": "laden",
+            "display_name": "Laden",
+            "style": {
+                "color": 849892095,
+                "paint_id": "6230dd6af1aadbc2df5b54e1",
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/638767f24cc489ef45239272",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60abf171870d317bef23d399",
+        "name": "modCheck",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "6053853cb4d31e459fdaa2dc",
+            "username": "laden",
+            "display_name": "Laden",
+            "style": {
+                "color": 849892095,
+                "paint_id": "6230dd6af1aadbc2df5b54e1",
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60abf171870d317bef23d399",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60ae65b29627f9aff4fd8bef",
+        "name": "NOOOO",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60ae49350e35477634486602",
+            "username": "justrogan",
+            "display_name": "JustRogan",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60ae65b29627f9aff4fd8bef",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 34,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 34,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 68,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 68,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 102,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 102,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 136,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 136,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60ae4ec30e35477634988c18",
+        "name": "COPIUM",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60ae49350e35477634486602",
+            "username": "justrogan",
+            "display_name": "JustRogan",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60ae4ec30e35477634988c18",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60ae4bb30e35477634610fda",
+        "name": "NODDERS",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60ae4b445d3fdae583d20e9a",
+            "username": "ethantp",
+            "display_name": "ethantp",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60ae4bb30e35477634610fda",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60a95f109d598ea72fad13bd",
+        "name": "Madge",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "609fccd64c18609a1dba6c2c",
+            "username": "askhp",
+            "display_name": "askhp",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60a95f109d598ea72fad13bd",
+            "files": [
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 42,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 42,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 84,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 84,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 126,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 126,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 168,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 168,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60ae8d9ff39a7552b658b60d",
+        "name": "Bedge",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "605394d9b4d31e459ff05f40",
+            "username": "paruna",
+            "display_name": "Paruna",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60ae8d9ff39a7552b658b60d",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "603cac391cd55c0014d989be",
+        "name": "Sadge",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "603ca8f696832ffa78c01eb4",
+            "username": "mauriplss",
+            "display_name": "Mauriplss",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/603cac391cd55c0014d989be",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 42,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 42,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 84,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 84,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 126,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 126,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 168,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 168,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60aec2196cfcffe15f4e4f93",
+        "name": "Prayge",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60ac7c354ef7db1ec1e9b730",
+            "username": "neowav",
+            "display_name": "Neowav",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60aec2196cfcffe15f4e4f93",
+            "files": [
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60ccf4479f5edeff9938fa77",
+        "name": "SUSSY",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "6144a9f80969108b67193814",
+            "username": "epicdonutdude_",
+            "display_name": "EpicDonutDude_",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60ccf4479f5edeff9938fa77",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60aee9d5361b0164e60d02c2",
+        "name": "WICKED",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60ae7682f7c927fad17bc447",
+            "username": "pandabene_",
+            "display_name": "Pandabene_",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60aee9d5361b0164e60d02c2",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 36,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 36,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 72,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 72,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 108,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 108,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 144,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 144,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60a9cfe96daf811370b0b640",
+        "name": "donowall",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "609ea82f326f0aaa85997c8f",
+            "username": "ttootts",
+            "display_name": "Ttootts",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60a9cfe96daf811370b0b640",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60aeec1712d7701491f89cf5",
+        "name": "peepoHey",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60ae49350e35477634486602",
+            "username": "justrogan",
+            "display_name": "JustRogan",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60aeec1712d7701491f89cf5",
+            "files": [
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "629f7ed33cfb54ec859bb216",
+        "name": "peepoLeave",
+        "listed": true,
+        "trending": 5,
+        "owner": {
+            "id": "60ae823b7eace53a2240e0c3",
+            "username": "boopiskat",
+            "display_name": "BoopisKat",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/629f7ed33cfb54ec859bb216",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60afc2eaa3648f409a82e80b",
+        "name": "peepoArrive",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60ced8f75e8535b651cfc821",
+            "username": "sundizzle",
+            "display_name": "sundizzle",
+            "style": {
+                "color": -5635841,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60afc2eaa3648f409a82e80b",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60afbe0599923bbe7fe9bae1",
+        "name": "POGGIES",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60a2b6f17d57f5ca75e180a4",
+            "username": "typeopessimist",
+            "display_name": "typeopessimist",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60afbe0599923bbe7fe9bae1",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "6102a37ba57eeb23c0e3e5cb",
+        "name": "peepoDJ",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60f28c1e31ba6ae622a49c16",
+            "username": "rsnowwolf",
+            "display_name": "rSnowWolf",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/6102a37ba57eeb23c0e3e5cb",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60a487509485e7cf2f5a6fa7",
+        "name": "KEKW",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60a47ffdb36c6d9593831c38",
+            "username": "luv__sick",
+            "display_name": "Luv__Sick",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60a487509485e7cf2f5a6fa7",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "6040a8bccf6746000db10348",
+        "name": "pepeJAM",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "603ca8f696832ffa78c01eb4",
+            "username": "mauriplss",
+            "display_name": "Mauriplss",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/6040a8bccf6746000db10348",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 33,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 33,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 66,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 66,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 99,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 99,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 132,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 132,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "6042089e77137b000de9e669",
+        "name": "OMEGALUL",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "603ca8f696832ffa78c01eb4",
+            "username": "mauriplss",
+            "display_name": "Mauriplss",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/6042089e77137b000de9e669",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60ae3e54259ac5a73e56a426",
+        "name": "Hmm",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60772a85a807bed00612d1ee",
+            "username": "lnsc",
+            "display_name": "LNSc",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60ae3e54259ac5a73e56a426",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60e0ec549db74f240c4c0c5b",
+        "name": "Nerdge",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60b561cc04283ab952bfd4e0",
+            "username": "on_a_stack",
+            "display_name": "On_a_stack",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60e0ec549db74f240c4c0c5b",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60b14a737a157a7f3360fb32",
+        "name": "Clueless",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60b14a41458816850763ac7b",
+            "username": "100mp",
+            "display_name": "100mp",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60b14a737a157a7f3360fb32",
+            "files": [
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 36,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 36,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 72,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 72,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 108,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 108,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 144,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 144,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60b0c36388e8246a4b120d7e",
+        "name": "Susge",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60b0c24b7ec2882b3dd6489d",
+            "username": "pulshly",
+            "display_name": "pulshly",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60b0c36388e8246a4b120d7e",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 42,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 42,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 84,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 84,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 126,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 126,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 168,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 168,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60b00d1f0d3a78a196f803e3",
+        "name": "ratJAM",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "613ced16be977eb5b436e9de",
+            "username": "daledo_",
+            "display_name": "daledo_",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60b00d1f0d3a78a196f803e3",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60af03597e8706b57220e8ce",
+        "name": "peepoGiggles",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60ae49350e35477634486602",
+            "username": "justrogan",
+            "display_name": "JustRogan",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60af03597e8706b57220e8ce",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 38,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 38,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 76,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 76,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 114,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 114,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 152,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 152,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "60a58e67a71d9fd11049f5e9",
+        "name": "muted",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "609ea82f326f0aaa85997c8f",
+            "username": "ttootts",
+            "display_name": "Ttootts",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/60a58e67a71d9fd11049f5e9",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    },
+    {
+        "id": "603cb5e1c20d020014423c68",
+        "name": "dinkDonk",
+        "listed": true,
+        "trending": null,
+        "owner": {
+            "id": "60afe6bb74d234a96934816d",
+            "username": "fr5ddy",
+            "display_name": "FR5DDY",
+            "style": {
+                "color": 0,
+                "paint_id": null,
+                "__typename": "UserStyle"
+            },
+            "__typename": "UserPartial"
+        },
+        "flags": 0,
+        "host": {
+            "url": "//cdn.7tv.app/emote/603cb5e1c20d020014423c68",
+            "files": [
+                {
+                    "name": "1x.avif",
+                    "format": "AVIF",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "1x.webp",
+                    "format": "WEBP",
+                    "width": 32,
+                    "height": 32,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.webp",
+                    "format": "WEBP",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "2x.avif",
+                    "format": "AVIF",
+                    "width": 64,
+                    "height": 64,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.avif",
+                    "format": "AVIF",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "3x.webp",
+                    "format": "WEBP",
+                    "width": 96,
+                    "height": 96,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.avif",
+                    "format": "AVIF",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                },
+                {
+                    "name": "4x.webp",
+                    "format": "WEBP",
+                    "width": 128,
+                    "height": 128,
+                    "__typename": "Image"
+                }
+            ],
+            "__typename": "ImageHost"
+        },
+        "__typename": "Emote"
+    }
+]
