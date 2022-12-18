@@ -35,8 +35,6 @@
   // Add emote to the input box
   function addEmote(emote, mutation) {
   
-    // https://cdn.7tv.app/emote/60ae7316f7c927fad14e6ca2/2x.webp
-    
     const emoteUrl = "https://cdn.7tv.app/emote/" + emote.id + "/2x.avif";
 
     fetch(emoteUrl)
@@ -61,6 +59,26 @@
     document.querySelectorAll('[data-testid=compose-btn-send]')[0].click();
   }
 
+  function transformExistingEmotes() {
+    // Transform any emote images currently in DOM to their actual size
+    // Need to select any image with an alt attribute that matches an emote name and is a child of a div with the data-testid of image-thumb
+    document.querySelectorAll('[data-testid=image-thumb] img[alt]').forEach(img => {
+      let emote = checkEmote(img.alt);
+      console.log(emote);
+      if (emote) {
+        const wrapper = img.parentElement.parentElement.parentElement
+        if (wrapper.attributes['data-testid'].value === 'image-thumb' && wrapper.style.width !== "64px") {
+          console.log("transforming emote")
+
+          wrapper.style.width = "64px";
+          wrapper.style.height = "64px";
+
+        }
+      }
+    }
+    );
+  }    
+
   function init() {
     console.log('init');
 
@@ -77,6 +95,16 @@
 
           console.log('A child node has been added or removed.');
           console.log(mutation);
+          transformExistingEmotes();
+
+          // If p.selectable-text.copyable-text is removed then clear observer and reinit
+          if (mutation.removedNodes.length > 0) {
+            if (mutation.removedNodes[0].className === "selectable-text copyable-text") {
+              console.log("input box removed");
+              observer.disconnect();
+              init();
+            }
+          }
         } 
         
         if (mutation.type === 'characterData') {
@@ -97,6 +125,7 @@
 
     // Start observing the target node for configured mutations
     observer.observe(targetNode, config);
+
 
   }
 

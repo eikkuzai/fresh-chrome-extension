@@ -12,16 +12,14 @@
       "run_at" : "document_start",
       "js": ["before.js"],
       "matches": [
-        "https://*/*",
-        "http://*/*"
+        "*://*.whatsapp.com/*"
       ]
     },
     {
       "run_at" : "document_idle",
       "js": ["after.js"],
       "matches": [
-        "https://*/*",
-        "http://*/*"
+        "*://*.whatsapp.com/*"
       ]
     }
   ],
@@ -33,8 +31,7 @@
     "scripting"
   ],
   "host_permissions": [
-    "https://*/*",
-    "http://*/*"
+    "*://*.whatsapp.com/*"
   ],
   "web_accessible_resources": [
     {
