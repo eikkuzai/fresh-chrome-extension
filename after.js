@@ -60,15 +60,13 @@
   }
 
   function transformExistingEmotes() {
-    // Transform any emote images currently in DOM to their actual size
+    // Transform any emote images currently in DOM to their actual size - only works for our own emotes since those have the alt attribute set...
     // Need to select any image with an alt attribute that matches an emote name and is a child of a div with the data-testid of image-thumb
     document.querySelectorAll('[data-testid=image-thumb] img[alt]').forEach(img => {
       let emote = checkEmote(img.alt);
-      console.log(emote);
       if (emote) {
         const wrapper = img.parentElement.parentElement.parentElement
-        if (wrapper.attributes['data-testid'].value === 'image-thumb' && wrapper.style.width !== "64px") {
-          console.log("transforming emote")
+        if (wrapper && wrapper.attributes['data-testid'].value === 'image-thumb' && wrapper.style.width !== "64px") {
 
           wrapper.style.width = "64px";
           wrapper.style.height = "64px";
